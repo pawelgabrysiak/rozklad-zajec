@@ -1,0 +1,14 @@
+# Pliki konfiguracyjne i wrażliwe
+config.php
+.env
+*.log
+
+# Cache, temp i IDE
+*.tmp
+*.swp
+.idea/
+.vscode/
+
+# Systemowe
+.DS_Store
+Thumbs.db
