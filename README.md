@@ -1,4 +1,4 @@
-# Rozklad-zajec
+# rozklad-zajec
 # System Rozkładu Zajęć
 
 Projekt akademicki systemu rozkładu zajęć, zrealizowany w ramach studiów z zakresu Informatyki Stosowanej.
